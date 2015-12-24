@@ -16,6 +16,6 @@ phantom.request(address, function(err, html) {
 
 	var temp = $('#tblproxy tbody tr.loading-row');
 
-	console.log('success!');
+	console.log(temp.attr('class'));
 
 });
