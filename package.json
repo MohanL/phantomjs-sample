@@ -1,0 +1,15 @@
+{
+  "name": "cheerio-try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Eballar <ryeballar@gmail.com> (https://ryeballar.github.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "phantomjs": "^1.9.19"
+  }
+}
